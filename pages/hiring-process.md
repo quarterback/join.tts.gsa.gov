@@ -20,7 +20,7 @@ subnav:
 
 ## Intro
 
-TBD - Need some kind of intro content here
+The federal application process can be a bit overwhelming, especially if you've never held a government job. The section below helps explain the hiring process at GSA.
 
 **Overall Timeline**
 - Application collection: 7-14 days
@@ -63,7 +63,7 @@ GS grade levels specify a fixed compensation range for a particular position, in
 
 Each GS grade level contains a series of 10 steps. New employees are usually hired at Step 1 of a GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
 
-The annual salary cap for all GS employees is $161,900 per year. You cannot be offered more than this under any circumstance.
+The annual salary cap for all GS employees is $164,200 per year. You cannot be offered more than this under any circumstance.
 
 ### General Schedule (GS) Salary Calculator
 Use this [OPM General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2017/general-schedule-gs-salary-calculator/) to help you understand how GS level, step, and locality affect compensation.
@@ -88,12 +88,12 @@ The [TTS Handbook](https://handbook.18f.gov/) has more information about working
 -----
 
 ## Application
-When you apply for a role at TTS, you’ll need to submit a government-style resume, which includes much more detail than a private-sector resume.
+When you apply for a role at TTS, you’ll need to submit a [government-style resume](ADD LINK), which includes much more detail than a private-sector resume.
 
 [Veterans’ Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx) is applied for candidates who are veterans and have claimed their veteran status.
 
 ### How we collect and review applications
-We collect applications during the period specified in the job posting. After the application window has closed (generally within 7-14 days), we review and evaluate all applications at the same time. The way we collect and review applications depends on the role and the type of hiring authority being used. 
+We collect applications during the period specified in the job posting. After the application window has closed (generally within 5-14 days), we review and evaluate all applications at the same time. The way we collect and review applications depends on the role and the type of hiring authority being used. 
 
 **Competitive Service:** Applications are collected via usajobs.gov and reviewed by the General Services Administration (GSA) Human Resources team, our parent federal agency’s human resources office. 
 
@@ -187,7 +187,7 @@ The hiring process continues in partnership with the GSA Human Resources team, o
 - A GSA HR specialist will call you with a tentative offer.  “Tentative” means the offer is contingent on a security clearance. This offer will include salary for your consideration.
 - Once you have accepted the tentative offer, you will receive a USAccess email to schedule a time to provide your fingerprints at [one of these locations](http://www.fedidcard.gov/centerlocator.aspx) for your security clearance.
 - You will schedule and complete your fingerprint scans.
-- You will complete the [e-QIP questionnaire](https://www.opm.gov/investigations/e-qip-application/) for which you will need to provide your past seven years of employment and location history as well as information for individuals who can provide verifications of your employment and location history. We **trongly encourage** you to keep a digital or printed copy of the completed eQip for use during your interview with the background investigator.
+- You will complete the [e-QIP questionnaire](https://www.opm.gov/investigations/e-qip-application/) for which you will need to provide your past seven years of employment and location history as well as information for individuals who can provide verifications of your employment and location history. We **strongly encourage** you to keep a digital or printed copy of the completed eQip for use during your interview with the background investigator.
 - Once your e-QIP has been initially cleared, you will receive an interim security clearance and a GSA HR specialist will call you with a final offer.
 - GSA HR and the TTS Talent team will work with you to identify and set a start date. New employees start every other Monday on the first day of a GSA pay period.
 
