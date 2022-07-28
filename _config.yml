@@ -1,6 +1,6 @@
-title: Join the Technology Transformation Services
-description: The Technology Transformation Service’s (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people.
-url: https://join.tts.gsa.gov
+title: GSA Fine Arts
+description: GSA Fine Arts Program
+url: https://fineart.gsa.gov
 
 theme: uswds-jekyll
 
@@ -12,12 +12,12 @@ plugins:
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: 18F
-  repository: join.tts.gsa.gov
+  organization: GSA Fine Arts
+  repository: fineart.gsa.gov
   default_branch: master
 
 # Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-48605964-32
+google_analytics_ua: 
 
 exclude:
   - CONTRIBUTING.md
@@ -37,7 +37,7 @@ exclude:
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
-dap_subagency: TTS
+dap_subagency: Fine Arts
 
 # Uncomment to enable AnchorJS functionality on docs layout.
 # See https://github.com/bryanbraun/anchorjs for more information.
@@ -70,3 +70,4 @@ defaults:
 
 styles:
   - /assets/css/index.css
+  -/asssets/css/_uswds-theme-custom-styles.scss

@@ -1,5 +1,5 @@
 ---
-title: Join Us
+title: GSA Fine Arts
 permalink: /
 layout: home
 ---
