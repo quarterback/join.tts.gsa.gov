@@ -11,9 +11,25 @@ $theme-color-accent-cool-lighter: #e1f3f8;
 
 /* Hero */
 .usa-hero {
-  background-image: none;
-  background-color: $theme-color-primary-darker;
-  -webkit-font-smoothing:antialiased;
+  background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.6), transparent, transparent),
+    linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent, transparent, transparent),
+    url('assets/img/flamingo2.jpg');
+  background-position-y: 100%;
+  min-height: units('mobile');
+  position: relative;
+
+  @media screen and (min-width: units('tablet-lg')) {
+    min-height: 50vh;
+  }
+}
+
+.usa-hero__credit {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0.5em 1em;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
 .usa-hero__heading--white {
