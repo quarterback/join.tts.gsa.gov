@@ -15,18 +15,18 @@ top:
 # If the logo is external add external: true
 logos:
   - src: /assets/img/gsa-tts-identity.svg
-    alt: General Services Administration | Technology Transformation Services
+    alt: General Services Administration | Fine Art Collection
     external: true
 
 contact:
   social_links:
-    - text: Twitter
-      href: https://twitter.com/@gsa_tts
+    - text: Phone
+      href: 
       external: true
-      type: twitter
+      type: (202) 501-1888
   contact_links:
-    - text: joinTTS@gsa.gov
-      href: mailto:joinTTS@gsa.gov
+    - text: contact@gsa.gov
+      href: mailto:contact@gsa.gov
 
 edit_page:
   text: Edit this page
