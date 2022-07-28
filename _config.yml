@@ -70,4 +70,3 @@ defaults:
 
 styles:
   - /assets/css/index.css
-  -/asssets/css/_uswds-theme-custom-styles.scss
