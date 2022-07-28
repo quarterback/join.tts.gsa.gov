@@ -1,28 +1,30 @@
 sidenav-breakpoint: desktop
 
 primary:
-  - text: Open and upcoming jobs
+  - text: Fine Arts Home
     href: /
-  - text: How we hire
+  - text: About
     links:
-      - text: Hiring process
-        href: /hiring-process/
-      - text: Reading a federal job posting
-        href: /federal-job-posting/
-      - text: Preparing your resume
-        href: /resume/
-      - text: Compensation and benefits
-        href: /compensation-and-benefits/
-      - text: About the Direct Hire Authority
-        href: /about-the-dha/
-  - text: About TTS
+      - text: Locations
+        href: https://www.gsa.gov/fine-arts?locations
+      - text: Artist Search
+        href: https://www.gsa.gov/fine-arts?artists
+      - text: Search the GSA Art Collection
+        href: https://www.gsa.gov/fine-arts?search
+      - text: About the Collection
+        href: https://www.gsa.gov/fine-arts?about-the-collection
+  - text: Galleries
     links:
-      - text: Our offices
-        href: /tts-offices/
-      - text: Working at TTS
-        href: /working-at-tts/
+      - text: New Deal Art
+        href: https://www.gsa.gov/fine-arts?galleries
+        text: Art in Federal Courthouses
+        href: https://www.gsa.gov/fine-arts?gallery/423
+        text: Art for the U.S. Border
+        href: https://www.gsa.gov/fine-arts?gallery/440
+        text: Collection Highlights
+        href: https://www.gsa.gov/fine-arts?gallery/404
 
 secondary:
-  - text: Sign up for job alerts
+  - text: Search Collection
     href: /newsletter/
     class: "usa-button-secondary"
